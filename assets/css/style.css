@@ -1,0 +1,196 @@
+body {
+  position: relative;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  font-size: 15px;
+  background-color: rgba(30, 84, 104, 0.274);
+  color: #4f464a;
+}
+
+h1,
+h2 {
+  margin: 10px;
+  display: block;
+  font-size: xx-large;
+}
+
+main {
+  padding: 60px 0;
+}
+
+li {
+  display: inline;
+  padding: 0px 20px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fdf8f5;
+}
+
+header,
+footer {
+  height: 60px;
+  width: 100%;
+  line-height: 60px;
+  background-color: #030f38a1;
+}
+.company {
+  font-size: x-large;
+  flex-direction: column-reverse;
+  position: relative;
+}
+
+header {
+  position: absolute;
+  font-size: larger;
+}
+
+footer {
+  position: absolute;
+  margin-top: 0;
+  bottom: 100;
+  color: #e2e1eb;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  height: 250px;
+  width: 400px;
+}
+
+form {
+  margin: 0 auto;
+  width: 500px;
+  padding: 10px;
+  border: 10px solid #61171728;
+  border-radius: 0px;
+  
+}
+
+input,
+textarea {
+  box-sizing: border-box;
+  width: 300px;
+  border: 1px solid #ddaf94;
+}
+
+textarea {
+  vertical-align: top;
+  height: 60px;
+}
+
+button {
+  height: 40px;
+  width: 120px;
+  background-color: #ddaf94;
+  color: #fdf8f5;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+.company {
+  text-align: center;
+  font-weight: 900;
+  position: absolute;
+
+  /* text-size-adjust: 200px; */
+}
+
+.experience h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+.employee {
+  height: 500px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-size: cover;
+  background-position: center;
+  display: block;
+  background-color: #ddaf94;
+}
+
+.content {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.contact {
+  background-image: url("../images/talent.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 20%;
+  height: 80vh;
+  width: 100%;
+  margin: 10px;
+}
+
+#experience {
+  position: fixed;
+  margin: 50px;
+}
+
+#about-me img {
+  position: relative;
+  display: inline;
+  margin: 20px;
+ 
+}
+
+#about-me p {
+  display: inline-block;
+  font-size: large;
+  font-weight: 600;
+  position: relative;
+  text-align: left;
+  margin: 10px;
+}
+#about-me{
+background-color: rgb(11, 184, 184);
+margin: 10px
+
+}
+
+#resume{
+  background-color: rgb(11, 184, 184);
+  margin: 10px
+  
+  }
+
+#resume img{
+margin: 20px;
+position: static;
+display: inline;
+}
+
+#work-experience p {
+  display: inline-block;
+  font-size: large;
+  font-weight: 600;
+  position: relative;
+  text-align: left;
+  margin: 20px
+  }
+
+  #resume p {
+    display: inline-block;
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    text-align: left;
+    margin: 10px;
+    }
+
