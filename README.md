@@ -32,7 +32,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 #### Mock-Up
 
-##### Site link:
+##### Site link: https://ekowbossman.github.io/Prof-portfolio/
 
 ###### Screenshot
 
