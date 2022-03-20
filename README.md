@@ -1,4 +1,4 @@
-# professional-portfolio 
+# Project name: professional-portfolio 
 
 ## Creating a page to view potential employee's deployed portfolio of work samples
 
@@ -35,4 +35,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ##### Site link: https://ekowbossman.github.io/Prof-portfolio/
 
 ###### Screenshot
-
+![alt text](./assets/images/Screenshot%20_portfolio2.png)
+![alt text](./assets/images/Screenshot_portfolio3.png)
